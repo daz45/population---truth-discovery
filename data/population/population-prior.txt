@@ -1,0 +1,1172 @@
+sangamon valley township, cass county, illinois_2000	328.0
+kuching_2006	495996.0
+lincoln, nebraska_2006	241167.0
+gothenburg_2006	487627.0
+burlington, wisconsin_2000	6384.0
+brno_2006	366661.0
+marblehead, massachusetts_2000	20377.0
+las vegas, nevada_2005	540111.0
+las vegas, nevada_2004	534837.0
+bethel, alaska_2006	5812.0
+kuching_2005	670407.0
+embrun, ontario_2006	8048.0
+las vegas, nevada_2006	552539.0
+salah ad din governorate_2003	1146500.0
+troutdale, virginia_2000	1230.0
+ponce, puerto rico_2000	186475.0
+el paso, texas_2004	592099.0
+el paso, texas_2005	609415.0
+houston, texas_2006	2144491.0
+urmia_2005	602403.0
+watertown, new york_2000	4482.0
+bo, sierra leone_2004	369734.0
+houston, texas_2005	2076189.0
+patoka township, gibson county, indiana_2000	11502.0
+lincoln, nebraska_2000	241167.0
+malone, new york_2000	6075.0
+ankeny, iowa_2000	27117.0
+sylva, north carolina_2000	2435.0
+avena township, fayette county, illinois_2000	1964.0
+boonsboro, maryland_2004	3083.0
+sandy, utah_2005	94203.0
+decatur, alabama_2006	55778.0
+ankeny, iowa_2005	36161.0
+calmar, alberta_2005	1992.0
+khobar_2004	165799.0
+youngstown, ohio_2006	81520.0
+youngstown, ohio_2004	77713.0
+barnaul_2005	631200.0
+knoxville, tennessee_2000	180130.0
+montgomery, alabama_2000	201568.0
+kailahun_2004	90658.0
+bangui_2003	622771.0
+mississauga, ontario_2006	668549.0
+kambia, sierra leone_2004	85346.0
+valencia, carabobo_2001	1400000.0
+mississauga, ontario_2001	612925.0
+st. thomas, ontario_2006	36110.0
+lincoln park, michigan_2000	40008.0
+aylmer, ontario_2006	7069.0
+kingsville, ontario_2001	19619.0
+buckhart township, fulton county, illinois_2000	1515.0
+howland, maine_2000	1362.0
+cullman, alabama_2000	14995.0
+schiedam_2005	75464.0
+ottawa_2001	774072.0
+newmarket, ontario_2001	65778.0
+columbia, illinois_2000	7922.0
+newmarket, ontario_2006	74295.0
+maquon township, knox county, illinois_2000	0.0
+ottawa_2005	812129.0
+ottawa_2006	812129.0
+greenville, south carolina_2006	56002.0
+astana_2007	577300.0
+la quinta, california_2000	23694.0
+ellsworth, wisconsin_2000	3193.0
+southaven, mississippi_2000	28977.0
+edinburg, texas_2000	48465.0
+moses lake, washington_2000	14953.0
+kuala lumpur_2004	1479388.0
+honda, tolima_2006	45000.0
+the hague_2007	474680.0
+wells, wisconsin_2000	529.0
+washington, district of columbia_2005	550521.0
+utica, new york_2000	60651.0
+washington, district of columbia_2006	582049.0
+marbella_2006	124333.0
+papendrecht_2007	31394.0
+rogers, arkansas_2000	48453.0
+polo, illinois_2000	2477.0
+berkeley heights, new jersey_2000	39991.0
+springfield, massachusetts_2000	154082.0
+pelham, new hampshire_2000	10914.0
+san cristãƒâ³bal, dominican republic_2006	170000.0
+fremont, california_2000	203413.0
+fremont, california_2005	210160.0
+san jose, california_2006	929936.0
+copley township, knox county, illinois_2000	0.0
+san jose, california_2007	973672.0
+lexington, kentucky_2000	266358.0
+blenheim, ontario_2001	4780.0
+bainbridge township, schuyler county, illinois_2000	540.0
+leavittsburg, ohio_2000	2200.0
+ãƒâ€“rnskãƒâ¶ldsvik_2005	28617.0
+trutnov_2004	31398.0
+hartland, connecticut_2005	2082.0
+meridian, mississippi_2000	39968.0
+cape coral, florida_2004	140010.0
+goiãƒâ¢nia_2005	1201006.0
+cape coral, florida_2006	154499.0
+elba township, knox county, illinois_2000	0.0
+fort mill, south carolina_2000	7587.0
+lenzburg township, st. clair county, illinois_2000	1148.0
+najaf governorate_2003	931600.0
+southampton, new york_2000	3965.0
+carberry, manitoba_2006	1502.0
+berdsk_2005	90.0
+apeldoorn_2007	155392.0
+antioch, california_2000	100590.0
+fargo, north dakota_2005	90672.0
+fargo, north dakota_2000	90599.0
+rowe, massachusetts_2000	351.0
+aracena_2006	7152.0
+putnam, connecticut_2005	9288.0
+palermo_2005	680000.0
+palermo_2006	721163.0
+lethbridge_2006	78713.0
+tijuana_2005	1286187.0
+norfolk, virginia_2000	234403.0
+st. george, utah_2006	67614.0
+san jose, california_2005	912332.0
+meridian, idaho_2005	41127.0
+western area, sierra leone_2004	1186624.0
+meridian, idaho_2006	59832.0
+malmãƒâ¶_2006	253012.0
+iberia, missouri_2000	605.0
+malmãƒâ¶_2005	258020.0
+st. joseph, missouri_2006	72651.0
+kãƒâ³pavogur_2006	27835.0
+nampa, idaho_2005	64269.0
+claremont, california_2000	33999.0
+rochester, minnesota_2005	94950.0
+nampa, idaho_2007	76587.0
+converse, indiana_2006	1244.0
+utrecht_2007	288731.0
+st. john's, newfoundland and labrador_2001	99512.0
+grand prairie, texas_2000	127427.0
+borough of princeton, new jersey_2006	13683.0
+garoowe_2007	300000.0
+arp, texas_2000	901.0
+jacksonville, florida_2005	794555.0
+wierden_2007	23417.0
+jacksonville, florida_2006	794555.0
+denton, texas_2005	100537.0
+denton, texas_2007	109561.0
+sherwood, oregon_2006	16115.0
+varna_2007	349031.0
+hoot owl, oklahoma_2000	0.0
+billings, montana_2007	103206.0
+algiers_2005	1519570.0
+aurora, illinois_2007	175952.0
+billings, montana_2006	101721.0
+sherwood, oregon_2000	11791.0
+jacksonville, florida_2004	777704.0
+san salvador_2006	2224223.0
+pendembu_2004	28300.0
+atlanta, georgia_2006	483108.0
+cardiff_2001	317500.0
+atlanta, georgia_2005	470688.0
+dublin, california_2004	45000.0
+atlanta, georgia_2004	425000.0
+sahuarita, arizona_2006	9007.0
+savage, minnesota_2000	21115.0
+lynden township, minnesota_2000	1919.0
+arkadelphia, arkansas_2000	10912.0
+pepin, wisconsin_2000	580.0
+maracaibo_2007	3100000.0
+cardiff_2007	317500.0
+cardiff_2006	317500.0
+prince albert, saskatchewan_2006	41072.0
+corner brook, newfoundland and labrador_2001	20103.0
+valley township, stark county, illinois_2000	349.0
+maracaibo_2001	1219927.0
+onslow, iowa_2000	223.0
+joãƒâ£o pessoa_2005	674762.0
+port jervis, new york_2000	9000.0
+miami, florida_2006	391355.0
+miami, florida_2005	382894.0
+east hampton, new york_2000	1334.0
+converse, indiana_2000	1137.0
+newington, connecticut_2005	29676.0
+pine city, minnesota_2006	3272.0
+montague, prince edward island_2006	1802.0
+gallup, new mexico_2000	20209.0
+brossard, quebec_2006	71154.0
+moscow_2005	1.04066E7
+albany, new york_2007	98518.0
+omsk_2002	1134016.0
+roanoke, virginia_2005	92631.0
+riobamba_2004	130000.0
+moscow_2007	1.0469E7
+sarajevo_2007	300316.0
+sarajevo_2006	304136.0
+albany, new york_2004	94226.0
+sarajevo_2005	308558.0
+ware, massachusetts_2007	9707.0
+bellingham, washington_2003	71289.0
+ipoh_2004	644802.0
+bellingham, washington_2000	67171.0
+frederick, maryland_2004	57009.0
+ainsworth, british columbia_2006	50.0
+split_2001	148694.0
+kabala, sierra leone_2004	89548.0
+whitby, ontario_2005	116000.0
+saint john, new brunswick_2001	64961.0
+whitby, ontario_2006	111.0
+wilmington, north carolina_2000	75838.0
+almaty_2005	1226300.0
+saint john, new brunswick_2006	68043.0
+holland, michigan_2003	34666.0
+surabaya_2007	4101937.0
+montville, connecticut_2005	19612.0
+lima_2006	4097340.0
+juncos, puerto rico_2000	36452.0
+maracay_2001	1905443.0
+kingston, ontario_2001	114195.0
+juneau, alaska_2004	30987.0
+belo horizonte_2006	2399920.0
+poughkeepsie, new york_2000	42777.0
+pittsburgh, pennsylvania_2000	334569.0
+perryton, texas_2000	7774.0
+holland, michigan_2000	35048.0
+berkeley township, new jersey_2000	13407.0
+lesser poland voivodeship_2006	3267200.0
+riverside, california_2006	293741.0
+ilha solteira_2004	201347.0
+irvine, california_2005	199755.0
+riverside, california_2005	294059.0
+irvine, california_2007	202050.0
+merced, california_2000	63894.0
+salisbury, maryland_2000	25743.0
+kamenice nad lipou_2003	4188.0
+stockholm_2007	786509.0
+orlovãƒâ¡_2006	33980.0
+biggsville township, henderson county, illinois_2000	586.0
+robsart, saskatchewan_2001	950.0
+chicago_2004	2862244.0
+tegucigalpa_2006	894000.0
+streetsville, ontario_2001	12040.0
+chicago_2006	2833321.0
+chicago_2005	2842518.0
+seaside heights, new jersey_2005	3220.0
+reykjavãƒâ­k_2007	117721.0
+norrkãƒâ¶ping_2005	83561.0
+akureyri_2007	17253.0
+akureyri_2006	16822.0
+providence, rhode island_2006	175255.0
+cleveland, ohio_2000	478403.0
+providence, rhode island_2005	176862.0
+edmonton_2006	730372.0
+orlando, florida_2005	213223.0
+orlando, florida_2006	224055.0
+plano, texas_2000	222030.0
+porto alegre_2005	1416735.0
+lake forest, california_2000	58707.0
+norrkãƒâ¶ping_2006	125.0
+mcallen, texas_2005	123055.0
+valley stream, new york_2000	36368.0
+chaska, minnesota_2005	22467.0
+bethel, connecticut_2002	18449.0
+cairo_2006	7500000.0
+beijing_2007	1.72E7
+green garden township, will county, illinois_2000	2556.0
+egg harbor, wisconsin_2000	1194.0
+beijing_2004	1.493E7
+cleveland, ohio_2006	444313.0
+yengema_2004	19450.0
+santa monica, california_2000	84084.0
+talk:hamilton, ontario_2001	490268.0
+tãƒâ³rshavn_2005	12573.0
+santa monica, california_2006	88050.0
+nicosia_2001	47832.0
+tirana_2005	585756.0
+zahle_2006	80000.0
+louisville, kentucky_2005	556429.0
+massillon, ohio_2000	31325.0
+budapest_2007	1697343.0
+tbilisi_2005	1093000.0
+budapest_2005	1.0
+budapest_2006	2009991.0
+flint, michigan_2000	124943.0
+chattanooga, tennessee_2000	155554.0
+abuja_2005	2500000.0
+rapson, michigan_2000	0.0
+eastern province, sierra leone_2004	1597725.0
+chattanooga, tennessee_2006	155190.0
+saline, michigan_2000	8034.0
+jasper, indiana_2000	12100.0
+bargersville, indiana_2000	2890.0
+avon, connecticut_2005	17209.0
+nunspeet_2007	26535.0
+white rock, new mexico_2000	6045.0
+eastover, north carolina_2000	1376.0
+salisbury, new hampshire_2000	1143.0
+formiga_2006	67174.0
+vãƒâ¤stãƒâ¥boland_2007	15.0
+nowogrodziec_2006	4055.0
+san luis potosãƒâ­, san luis potosãƒâ­_2005	685934.0
+utuado, puerto rico_2000	35336.0
+kingston, new york_2000	23456.0
+lewiston, idaho_2005	30937.0
+acworth, georgia_2005	17428.0
+havre de grace, maryland_2000	11331.0
+bowling green, kentucky_2000	49296.0
+rosman, north carolina_2000	490.0
+the dalles, oregon_2000	12156.0
+loãƒâ­za, puerto rico_2000	32537.0
+huntsville, alabama_2000	166313.0
+blackfalds, alberta_2006	4741.0
+bowling green, kentucky_2006	53112.0
+henderson, nevada_2005	232146.0
+drayton valley, alberta_2006	6579.0
+luboã…â€ž_2006	26536.0
+georgetown, prince edward island_2006	643.0
+yellowknife_2001	16541.0
+coeur d'alene, idaho_2005	37262.0
+san bernardino, california_2006	201823.0
+barton, vermont_2000	742.0
+albany, vermont_2000	165.0
+southern province, sierra leone_2004	1507067.0
+brasãƒâ­lia_2006	2383784.0
+makeni_2004	115800.0
+oshawa, ontario_2006	141.0
+chetwynd, british columbia_2006	2866.0
+chillicothe, ohio_2006	22216.0
+brasãƒâ­lia_2007	2383784.0
+hamirpur, uttar pradesh_2000	67088.0
+owerri_2006	200000.0
+davenport, iowa_2000	98359.0
+o'fallon, missouri_2007	74000.0
+oshawa, ontario_2001	152.0
+palmdale, california_2007	116670.0
+auburn, maine_2000	23690.0
+guayaquil_2004	2268338.0
+st. george, kansas_2000	434.0
+yellowknife_2006	18700.0
+chipiona_2006	17730.0
+jerez de la frontera_2005	196275.0
+jackson, tennessee_2006	62711.0
+sacramento, california_2000	407018.0
+sacramento, california_2006	457514.0
+campo grande_2006	800000.0
+charleston, west virginia_2005	51176.0
+dubuque, iowa_2005	57798.0
+sacramento, california_2004	456441.0
+elmira, new york_2000	7198.999999999996
+kailahun district_2004	458259.0
+coral springs, florida_2005	128804.0
+racibãƒâ³rz_2006	57987.0
+malin, oregon_2000	638.0
+akron, ohio_2000	217074.0
+carãƒâºpano_2001	122195.0
+amsterdam_2006	743027.0
+al anbar governorate_2003	1230169.0
+ibaguãƒâ©_2005	400000.0
+steubenville, ohio_2000	19015.0
+bethune, saskatchewan_2006	516.0
+willmar, minnesota_2000	18351.0
+philo township, champaign county, illinois_2000	1768.0
+dekalb, illinois_2000	39018.0
+springfield, illinois_2005	115668.0
+virginia beach, virginia_2007	435619.0
+virginia beach, virginia_2006	438619.0
+murrieta, california_2000	44282.0
+virginia beach, virginia_2005	438415.0
+clarkdale, arizona_2006	3753.0
+port harcourt_2005	1320214.0
+sloviansk_2001	1248.0
+st. louis, missouri_2006	353837.0
+st. louis, missouri_2005	350705.0
+saskatoon_2007	202340.0
+winslow, maine_2000	7743.0
+sylhet_2007	369425.0
+sheboygan, wisconsin_2000	5873.999999999993
+babylon, new york_2000	211792.0
+orangeburg, south carolina_2000	12765.0
+montreal_2006	1620693.0
+luleãƒâ¥_2005	45467.0
+wethersfield township, henry county, illinois_2000	0.0
+montreal_2001	1583590.0
+tacoma, washington_2005	195898.0
+white plains, new york_2000	53077.0
+north bay, ontario_2001	52771.0
+north, south carolina_2000	813.0
+talkington township, sangamon county, illinois_2000	263.0
+yuba city, california_2006	60507.0
+stockholm, wisconsin_2000	75.0
+sãƒâ£o bernardo do campo_2005	788560.0
+sparta, tennessee_2000	4599.0
+ostrava_2006	309098.0
+hampton falls, new hampshire_2000	1890.0
+gilroy, california_2000	41464.0
+ostrava_2004	315000.0
+lewiston, maine_2000	35690.0
+decatur township, macon county, illinois_2000	303.0
+cuernavaca_2005	332197.0
+tyler, texas_2005	101106.0
+laval, quebec_2004	364756.0
+naberezhnye chelny_2002	509870.0
+berwick township, warren county, illinois_2000	379.0
+bridgeport, connecticut_2004	139910.0
+corpus christi, texas_2004	281196.0
+kromã„â€ºã…â„¢ãƒâ­ã…â¾_2006	29374.0
+hastings, sierra leone_2004	13054.0
+azogues_2000	216901.0
+tupelo, mississippi_2000	35930.0
+san francisco, california_2006	798680.0
+tell city, indiana_2000	7845.0
+san francisco, california_2005	739426.0
+san francisco, california_2004	744230.0
+hermosillo_2007	641791.0
+san francisco, california_2003	751682.0
+old ripley township, bond county, illinois_2000	796.0
+bonthe_2004	50635.0
+san francisco, california_2007	808844.0
+bellefontaine, ohio_2006	18069.0
+anaheim, california_2000	342410.0
+east granby, connecticut_2005	5058.0
+culiacãƒâ¡n_2005	793730.0
+mesquite, texas_2005	129902.0
+benalmãƒâ¡dena, spain_2006	45686.0
+little rock, arkansas_2006	184422.0
+little rock, arkansas_2005	184564.0
+barnstead, new hampshire_2000	3886.0
+corumbãƒâ¡_2006	101000.0
+malton, ontario_2002	36400.0
+san josãƒâ©, costa rica_2006	60201.0
+holgate, ohio_2000	1194.0
+moncton_2006	64128.0
+berkeley, california_2000	102743.0
+moncton_2001	61046.0
+cochrane, alberta_2006	12688.0
+san josãƒâ©, costa rica_2003	60201.0
+lee's summit, missouri_2006	81913.0
+lee's summit, missouri_2005	80338.0
+rock hill, south carolina_2005	61620.0
+lee's summit, missouri_2007	80338.0
+sault ste. marie, ontario_2006	74948.0
+kings county, nova scotia_2006	58866.0
+trumbull, connecticut_2005	35299.0
+north wilkesboro, north carolina_2000	4116.0
+paducah, texas_2000	1498.0
+oceanside, california_2000	173303.0
+beaumont, alberta_2006	8951.0
+eagle point, oregon_2000	4797.0
+little rock, arkansas_2000	183133.0
+summerville, south carolina_2000	27752.0
+la crosse, wisconsin_2000	51818.0
+campbell river, british columbia_2007	29572.0
+new york city_2004	8104079.0
+sault ste. marie, michigan_2000	16542.0
+rome_2006	2547677.0
+dawson creek_2006	11615.0
+surrey, british columbia_2006	394976.0
+jeddah_2007	5900000.0
+new york city_2006	8214426.0
+jeddah_2006	2700000.0
+new york city_2005	8143197.0
+rome_2005	2553873.0
+billings, montana_2000	89847.0
+charleston, south carolina_2006	107844.0
+sault ste. marie, michigan_2005	14318.0
+charleston, south carolina_2005	106712.0
+melrose, massachusetts_2000	27134.0
+boone, north carolina_2000	13472.0
+gorham, new hampshire_2000	2895.0
+hanna, alberta_2006	2996.0
+aranda de duero_2005	30309.0
+owen sound, ontario_2001	21431.0
+raleigh, north carolina_2000	276093.0
+baghdad_2006	45.0
+leduc, alberta_2006	16967.0
+chillicothe township, peoria county, illinois_2000	8233.0
+blissfield, michigan_2000	3223.0
+calera, alabama_2000	3158.0
+steinbach, manitoba_2001	9227.0
+jasper, alberta_2006	4643.0
+victoria, british columbia_2006	78659.0
+piedmont, west virginia_2000	1094.0
+scranton, pennsylvania_2006	83897.0
+fort wayne, indiana_2004	220486.0
+fort wayne, indiana_2005	223341.0
+shakopee, minnesota_2005	29335.0
+santa ana, california_2007	353428.0
+santa ana, california_2006	351322.0
+colombo_2001	642163.0
+san pedro sula_2006	517000.0
+rusk, texas_2000	5085.0
+fort worth, texas_2004	534694.0
+manchester, new hampshire_2000	109691.0
+annawan township, henry county, illinois_2000	0.0
+gouverneur, new york_2000	4263.0
+clover township, henry county, illinois_2000	0.0
+caracas_2005	3140076.0
+caracas_2001	2762759.0
+cass township, fulton county, illinois_2000	642.0
+mokokchung_2001	41746.0
+cãƒâºcuta_2005	742689.0
+mexico city_2005	8720916.0
+phnom penh_2006	2009264.0
+scranton, pennsylvania_2000	76415.0
+binghamton, new york_2000	4969.0
+austintown, ohio_2000	31627.0
+essex township, stark county, illinois_2000	675.0
+barranquilla_2005	1386895.0
+shah alam_2006	563468.0
+cartaya_2006	15480.0
+plovdiv_2006	376.0
+grass valley, oregon_2000	171.0
+strasburg, ohio_2000	2310.0
+greater sudbury_2006	157857.0
+cartagena, colombia_2006	1075000.0
+fort myers, florida_2005	58428.0
+groton, connecticut_2005	41336.0
+indianapolis, indiana_2000	791926.0
+atlas township, pike county, illinois_2000	655.0
+woodbury, minnesota_2000	46463.0
+loraine township, henry county, illinois_2000	0.0
+pardubice_2005	88181.0
+crandon, wisconsin_2000	614.0
+buckeye, arizona_2005	25406.0
+jefferson city, missouri_2000	39636.0
+bear creek township, hancock county, illinois_2000	379.0
+new haven, connecticut_2004	124829.0
+dayton, oregon_2000	2119.0
+surprise, arizona_2006	85914.0
+abbotsford, british columbia_2006	123864.0
+indianapolis, indiana_2006	785597.0
+portage la prairie, manitoba_2006	12728.0
+narva_2007	67497.0
+san antonio del tãƒâ¡chira_2001	48171.0
+heiloo_2007	21995.0
+lexington, kentucky_2006	270789.0
+vlaardingen_2007	71314.0
+walker, michigan_2000	21842.0
+union township, gibson county, indiana_2000	3954.0
+sparta, wisconsin_2000	2750.0
+shaniko, oregon_2000	26.0
+timmins, ontario_2006	42997.0
+denton, kansas_2000	186.0
+fond du lac, wisconsin_2000	2027.0
+tã…â„¢ebãƒâ­ã„â?_2005	38715.0
+jacksonville, texas_2000	13868.0
+medellãƒâ­n_2006	2350227.0
+coquitlam, british columbia_2005	113498.0
+ajax, ontario_2006	90167.0
+abcoude_2007	8657.0
+ajax, ontario_2001	73753.0
+sevierville, tennessee_2004	14101.0
+esztergom_2006	30122.0
+belleview precinct, calhoun county, illinois_2000	286.0
+burke, new york_2000	213.0
+mckinney, texas_2006	102853.0
+brandon, manitoba_2006	41511.0
+helmond_2007	85993.0
+olomouc_2005	100752.0
+olomouc_2006	100381.0
+cataãƒâ±o, puerto rico_2004	30071.0
+wilton township, will county, illinois_2000	819.0
+kaukauna, wisconsin_2000	1142.0
+dieppe, new brunswick_2001	14951.0
+kenora, ontario_2006	15177.0
+fort branch, indiana_2000	2320.0
+darmstadt, indiana_2000	4313.0
+memphis, tennessee_2005	680768.0
+winona, minnesota_2000	27069.0
+quebec city_2006	491142.0
+memphis, tennessee_2006	670902.0
+wilson, north carolina_2004	47441.0
+canton township, fulton county, illinois_2000	16075.0
+virginia beach, virginia_2000	425257.0
+quito_2005	1865541.0
+crawfordsville, indiana_2000	15243.0
+winchester, virginia_2005	25119.0
+dunstable, massachusetts_2000	2829.0
+forestville, wisconsin_2000	1086.0
+lago ranco, chile_2002	11032.0
+bear creek township, christian county, illinois_2000	0.0
+medford, oregon_2006	73960.0
+medford, oregon_2005	70860.0
+detroit, michigan_2006	871121.0
+fontana, california_2005	158235.0
+tuscaloosa, alabama_2003	81358.0
+tonawanda, new york_2000	78155.0
+cherry hill township, new jersey_2005	71821.0
+cherry hill township, new jersey_2006	71586.0
+detroit, michigan_2005	886675.0
+detroit, michigan_2004	900198.0
+cherry hill township, new jersey_2000	71800.0
+naantali_2007	14072.0
+laurens, new york_2000	277.0
+north charleston, south carolina_2005	86313.0
+alexandria_2001	3500000.0
+la mirada, california_2000	46783.0
+minerva, ohio_2000	3934.0
+medford, oregon_2000	63154.0
+reno, nevada_2000	180480.0
+eau claire, wisconsin_2000	61704.0
+nashville, tennessee_2000	569891.0
+renton, washington_2000	50052.0
+columbia, missouri_2006	91877.0
+nashville, tennessee_2005	607413.0
+london_2005	75.0
+davao city_2005	1725355.0
+davao city_2006	2145000.0
+forest acres, south carolina_2000	10908.0
+tã…â„¢inec_2006	38242.0
+madera, california_2006	52560.0
+davao city_2000	1147116.0
+portsmouth, virginia_2005	100565.0
+canton, texas_2000	3292.0
+laredo, texas_2005	214657.0
+calgary_2006	988193.0
+santo domingo_2007	913540.0
+vught_2007	25250.0
+bettendorf, iowa_2000	32394.0
+smith village, oklahoma_2000	40.0
+madison, mississippi_2000	14692.0
+sierra vista southeast, arizona_2000	37775.0
+harlingen, texas_2005	66498.0
+santo domingo_2002	913540.0
+big stone gap, virginia_2000	4856.0
+schaumburg, illinois_2000	75386.0
+warsaw_2006	1700536.0
+broomfield, colorado_2006	43478.0
+opava_2005	59843.0
+mackenzie, british columbia_2006	5452.0
+padang, indonesia_2000	901000.0
+new square, new york_2000	4624.0
+wijchen_2007	39493.0
+helsinki_2006	565186.0
+carson city, nevada_2006	55289.0
+sãƒâ£o paulo_2006	1.1016703E7
+madison, wisconsin_2000	208054.0
+elmwood township, peoria county, illinois_2000	2392.0
+sãƒâ£o paulo_2005	1.1016703E7
+cincinnati, ohio_2006	332252.0
+shelburne, ontario_2001	4122.0
+apex, north carolina_2007	31453.0
+granby, massachusetts_2000	6132.0
+vandalia township, fayette county, illinois_2000	773.0
+cincinnati, ohio_2005	368868.0
+fort smith, arkansas_2006	83461.0
+petaling jaya_2004	450000.0
+gulf breeze, florida_2005	6333.0
+hopkinton (cdp), massachusetts_2000	2628.0
+chandler, arizona_2006	240595.0
+fredericton_2006	50535.0
+chandler, arizona_2007	247097.0
+chandler, arizona_2005	230825.0
+pampa, texas_2000	17887.0
+chittagong_2006	3920222.0
+williamsburg, virginia_2000	11998.0
+el royo_2004	316.0
+magburaka_2004	110396.0
+urda, toledo_2006	3164.0
+arbil_2005	990000.0
+znojmo_2005	35177.0
+norwood, kentucky_2000	395.0
+san clemente, california_2000	93102.0
+spokane, washington_2006	198081.0
+norwalk, connecticut_2005	84437.0
+winnipeg_2006	633451.0
+modesto, california_2000	207000.0
+kenema_2004	294539.0
+huntsville township, schuyler county, illinois_2000	160.0
+evansville, indiana_2000	121582.0
+torrance, california_2000	137946.0
+macomb township, mcdonough county, illinois_2000	608.0
+limassol_2001	94250.0
+winnipeg_2005	650100.0
+waterloo, sierra leone_2004	58931.0
+athens_2006	4242000.0
+miguel alemãƒâ¡n, tamaulipas_2005	165.0
+columbia, south carolina_2005	122819.0
+abu dhabi_2006	1850230.0
+columbia, south carolina_2006	122819.0
+newburg township, pike county, illinois_2000	983.0
+boston, massachusetts_2006	590763.0
+hermosa beach, california_2000	18566.0
+guthrie, oklahoma_2004	9500.0
+minneapolis, minnesota_2000	382618.0
+boston, massachusetts_2005	596638.0
+haifa_2006	267800.0
+three oaks, michigan_2000	1829.0
+yangon_2007	6007000.0
+vãƒâ¤sterãƒâ¥s_2005	107005.0
+dubai_2004	1070779.0
+dubai_2006	1321453.0
+vãƒâ¤sterãƒâ¥s_2004	132000.0
+forest grove, oregon_2000	17708.0
+maurice, iowa_2000	254.0
+barbadillo del pez_2004	93.0
+albuquerque, new mexico_2003	471856.0
+ã… abac_2002	55163.0
+albuquerque, new mexico_2005	494236.0
+presidente prudente_2004	201347.0
+greenville, north carolina_2006	60476.0
+treece, kansas_2000	149.0
+greenville, north carolina_2005	67525.0
+lake st. louis, missouri_2003	13281.0
+aurora, ontario_2001	40167.0
+pearland, texas_2000	37640.0
+stratford, prince edward island_2006	7083.0
+groton, connecticut_2000	39907.0
+brussels_2005	140000.0
+santiago de los caballeros_2006	750000.0
+johor bahru_2006	876033.0
+linkãƒâ¶ping_2005	97428.0
+palm beach gardens, florida_2004	35058.0
+legnica_2006	105570.0
+paphos_2001	26530.0
+mobile, alabama_2004	203564.0
+kragujevac_2002	175802.0
+mobile, alabama_2005	191544.0
+oklahoma city, oklahoma_2005	541500.0
+oklahoma city, oklahoma_2004	528042.0
+flemington, new jersey_2000	4171.0
+johnstown, pennsylvania_2006	22269.0
+yabucoa, puerto rico_2000	39246.0
+springfield, missouri_2005	150298.0
+mission, texas_2000	45408.0
+novosibirsk_2005	1.0
+glens falls, new york_2000	14354.0
+tampa, florida_2006	337857.0
+tampa, florida_2005	333040.0
+carson city, nevada_2000	52457.0
+bakersfield, california_2006	372232.0
+tampa, florida_2007	345556.0
+burlington, ontario_2001	150836.0
+peterborough, new hampshire_2000	5883.0
+pavlodar_2006	300200.0
+burlington, ontario_2006	164415.0
+mobile, alabama_2006	192830.0
+washburn, wisconsin_2000	2280.0
+bakersfield, california_2007	323213.0
+bald bluff township, henderson county, illinois_2000	6020.0
+delavan, wisconsin_2000	4559.0
+bogotãƒâ¡_2006	7185889.0
+dourados_2006	200000.0
+bogotãƒâ¡_2005	6776009.0
+villa park, california_2000	5999.0
+dhaka_2006	6724976.0
+dhaka_2007	6969458.0
+manizales_2003	380000.0
+manizales_2005	414349.0
+user:emijrp/yaexiste_2005	173.0
+palos de la frontera_2006	8181.0
+minneapolis, minnesota_2005	372811.0
+acme, alberta_2006	826.0
+boyle, alberta_2005	851.0
+kano_2005	3626204.0
+carrizo springs, texas_2006	5682.0
+opatãƒâ³wek_2006	3800.0
+havãƒâ­ã…â„¢ov_2006	83033.0
+stamford, connecticut_2005	119261.0
+santiago de cali_2005	2068386.0
+villahermosa_2005	558.0
+daugavpils_2006	108260.0
+addis ababa_2005	2973004.0
+kiev_2005	2660401.0
+hanoi_2005	3.1453E9
+sioux falls, south dakota_2007	148000.0
+kiev_2007	27.0
+sioux falls, south dakota_2006	144900.0
+pleasanton, california_2000	63654.0
+fairhaven, massachusetts_2000	16159.0
+sioux falls, south dakota_2005	190000.0
+petersburg south precinct, menard county, illinois_2000	0.0
+wilsonville, oregon_2000	13991.0
+bielawa_2006	32652.0
+holliston, massachusetts_2000	13801.0
+sochi_2002	328809.0
+guadalajara, jalisco_2005	1600940.0
+concord, new hampshire_2000	40687.0
+goderich, sierra leone_2004	15768.0
+ã…â?ãƒâ³dã…âº_2006	760251.0
+seabrook, new hampshire_2000	7979.0
+dedham, massachusetts_2000	23225.0
+green bay, wisconsin_2006	100353.0
+bã„æ’lã…â£i_2004	122600.0
+gjirokastãƒâ«r_2003	30000.0
+baton rouge, louisiana_2004	229553.0
+lancaster, california_2000	143818.0
+flemington, missouri_2000	124.0
+santa uxãƒâ­a de ribeira_2004	26623.0
+taquara_2005	60481.0
+jonesboro, arkansas_2006	64358.0
+branford, connecticut_2005	29089.0
+cambridge, massachusetts_2000	101354.0
+hackensack, new jersey_2006	43671.0
+koidu-sefadu_2004	123800.0
+estepona_2006	54709.0
+strathmore, alberta_2006	10336.0
+mound city, kansas_2000	821.0
+compton, california_2000	93493.0
+buffalo, new york_2000	292648.0
+mãƒâ©rida, mãƒâ©rida_2001	300000.0
+maastricht_2007	119147.0
+chateaugay, new york_2000	798.0
+buffalo, new york_2006	292648.0
+buffalo, new york_2005	279745.0
+ventura, california_2006	106744.0
+mauston, wisconsin_2000	3740.0
+arlington, washington_2004	14491.0
+wenatchee, washington_2000	35437.0
+tlalnepantla de baz_2005	683808.0
+canandaigua, new york_2000	7649.0
+smithfield, north carolina_2000	11510.0
+fresno, california_2006	481035.0
+lipno, poland_2006	14834.0
+ray, north dakota_2000	534.0
+oakland, california_2005	412318.0
+oakland, california_2006	415492.0
+sofia_2006	1246791.0
+jagraon_2001	46000.0
+sofia_2007	1270450.0
+milan, michigan_2000	4775.0
+glastonbury, connecticut_2005	33089.0
+dundee, oregon_2000	3010.0
+lucena city_2005	461861.0
+midland, texas_2006	102073.0
+ronda, north carolina_2000	460.0
+rapid city, south dakota_2005	62167.0
+mount carroll, illinois_2000	1704.0
+hastings, ontario_2001	1208.0
+brownsville, texas_2000	139722.0
+drohobych_2005	77.0
+lagos_2005	8000000.0
+lagos_2006	209437.0
+cumberland, maryland_2000	21591.0
+umeãƒâ¥_2005	75645.0
+chiã…å¸inã„æ’u_2004	593800.0
+moyamba_2004	95238.0
+salinas, california_2006	148350.0
+medfield, massachusetts_2000	13002.0
+marquette, michigan_2000	19661.0
+tiraspol_2005	159163.0
+dannemora, new york_2000	4129.0
+ashby, massachusetts_2000	2845.0
+san antonio, texas_2006	1296682.0
+oyster bay (hamlet), new york_2000	293925.0
+san antonio, texas_2005	1256509.0
+ulan bator_2007	1000000.0
+seremban_2003	408784.0
+huntington, west virginia_2004	49891.0
+portland, oregon_2003	538544.0
+portland, oregon_2006	562690.0
+portland, oregon_2005	533427.0
+guatemala city_2002	942348.0
+heerlen_2007	90399.0
+mogadishu_2006	2000000.0
+hãƒâ¤ssleholm_2005	17730.0
+kabul_2005	2994000.0
+medina township, peoria county, illinois_2000	6388.0
+tulsa, oklahoma_2004	387807.0
+tulsa, oklahoma_2006	382872.0
+panama city_2000	1063000.0
+richmond, virginia_2004	192494.0
+richmond, virginia_2007	195251.0
+omaha, nebraska_2000	399762.0
+camden, new jersey_2000	79904.0
+omaha, nebraska_2005	424988.0
+westport, connecticut_2005	26615.0
+saginaw, michigan_2000	61799.0
+omaha, nebraska_2007	178612.0
+omaha, nebraska_2006	427872.0
+reedsport, oregon_2000	4378.0
+owensboro, kentucky_2005	55525.0
+niã…â¡_2002	250518.0
+delafield, wisconsin_2000	7820.0
+krakãƒâ³w_2006	757500.0
+bruges, gironde_2005	14013.0
+sãƒâ£o carlos_2006	218702.0
+lebanon, virginia_2000	3273.0
+tenjo_2005	19176.0
+vincent, iowa_2000	158.0
+lubbock, texas_2004	209737.0
+muskogee, oklahoma_2000	38310.0
+karvinãƒâ¡_2006	63467.0
+monterrey_2005	1133814.0
+iowa city, iowa_2000	62220.0
+mecca_2004	1294168.0
+ã…â?aã…â€žcut_2004	18045.0
+charlotte, north carolina_2007	664332.0
+ã„å’eskãƒâ© budã„â€ºjovice_2005	94622.0
+charlotte, north carolina_2005	610949.0
+charlotte, north carolina_2006	630478.0
+mesa, arizona_2005	448096.0
+mesa, arizona_2006	447541.0
+milton, new hampshire_2000	3910.0
+davis, california_2005	64401.0
+whitehorse, yukon_2006	20461.0
+toa baja, puerto rico_2000	94085.0
+kuantan_2005	501965.0
+plattsburgh, new york_2000	11190.0
+kaohsiung_2006	1510577.0
+sallisaw, oklahoma_2000	7989.0
+cornelius, oregon_2000	9652.0
+ciudad mante_2005	112061.0
+manteca, california_2000	49258.0
+branson, missouri_2000	6050.0
+toronto_2005	2481494.0
+durham, north carolina_2005	208816.0
+dã„â„¢blin_2004	19.0
+roxboro, north carolina_2000	8696.0
+cottage grove, oregon_2007	9265.0
+toronto_2006	2503281.0
+fallujah_2003	435774.0
+quesnel, british columbia_2001	10481.0
+makati city_2000	471379.0
+hoorn_2007	68152.0
+toronto_2001	2481494.0
+los mochis, sinaloa_2005	231977.0
+regina, saskatchewan_2001	178225.0
+bridge creek, oklahoma_2000	32.0
+novãƒâ½ bydã…â¾ov_2003	7160.0
+larnaca_2001	46666.0
+corvallis, oregon_2006	53900.0
+mount sterling township, brown county, illinois_2000	4562.0
+beloit, wisconsin_2000	7038.0
+barre, vermont_2000	7602.0
+niagara falls, ontario_2006	82184.0
+talk:london/archive 7_2006	9200.0
+karachi_2007	1.2315843E7
+tallahassee, florida_2000	150624.0
+pujehun_2004	48238.0
+rhinebeck, new york_2000	3077.0
+ghazni_2006	141000.0
+lepe_2006	22709.0
+los angeles, california_2004	3844828.0
+myrnam, alberta_2006	270.0
+los angeles, california_2005	3844829.0
+marshalltown, iowa_2000	26009.0
+los angeles, california_2006	3849378.0
+los angeles, california_2007	3849378.0
+template:infobox settlement/doc_2006	871121.0
+brussels-capital region_2005	1006749.0
+lungi, sierra leone_2004	32478.0
+denver, colorado_2006	557917.0
+barquisimeto_2001	1200000.0
+recife_2001	1515052.0
+lawrence, kansas_2000	80098.0
+romulus, michigan_2006	24137.0
+tucson, arizona_2006	518956.0
+tucson, arizona_2005	515526.0
+romulus, michigan_2007	25055.0
+squaw lake, minnesota_2000	99.0
+romulus, michigan_2005	23853.0
+denver, colorado_2004	556835.0
+denver, colorado_2005	555981.0
+antigo, wisconsin_2000	1487.0
+islip (hamlet), new york_2000	322612.0
+mankato, minnesota_2006	35493.0
+banff, alberta_2005	6700.0
+lansing, michigan_2000	119128.0
+hafnarfjãƒâ¶rãƒâ°ur_2003	21190.0
+norman, oklahoma_2000	95694.0
+kiryas joel, new york_2000	13138.0
+north battleford, saskatchewan_2006	17764.0
+hickory, north carolina_2005	40212.0
+ithaca, new york_2000	18198.0
+upland, california_2002	70493.0
+zagreb_2001	779145.0
+bainbridge island (washington)_2005	21951.0
+san diego, california_2006	1256951.0
+terre haute, indiana_2000	59614.0
+san diego, california_2005	1255240.0
+irving, texas_2000	191615.0
+racine, wisconsin_2000	81855.0
+bainbridge island (washington)_2000	20308.0
+plymouth, connecticut_2005	12183.0
+merrill, wisconsin_2000	2979.0
+flagstaff, arizona_2005	58213.0
+honolulu, hawaii_2004	377260.0
+tolleson, arizona_2006	5974.0
+madrid_2005	3228359.0
+vicksburg, mississippi_2000	26407.0
+chatham-kent_2001	111925.0
+muncie, indiana_2000	65287.0
+red deer, alberta_2006	82971.0
+brownsburg, indiana_2000	14520.0
+liberec_2005	97400.0
+javornãƒâ­k (jesenãƒâ­k district)_2005	2900.0
+newport, vermont_2000	5005.0
+jefferson, iowa_2000	4626.0
+bedford township, monroe county, michigan_2000	28606.0
+urbana, illinois_2000	37362.0
+carrollton township, greene county, illinois_2000	3142.0
+normal, illinois_2005	50485.0
+east hampton, connecticut_2005	15363.0
+ã„å’ervenãƒâ½ kostelec_2006	8446.0
+eugene, oregon_2006	148595.0
+vallejo, california_2000	116760.0
+st. marys, ohio_2000	8342.0
+port loko_2004	94872.0
+rowley, alberta_2001	12.0
+wikipedia:sandbox_2005	396778.0
+el monte, california_2000	115965.0
+wikipedia:sandbox_2006	53966.0
+owego, new york_2000	3911.0
+wikipedia:sandbox_2000	15626.0
+shelton, connecticut_2005	40142.0
+harare_2006	2800000.0
+lagrange, georgia_2000	24998.0
+jackson, mississippi_2000	184256.0
+gravenhurst, ontario_2001	10.0
+santa fe, new mexico_2006	72056.0
+belgrade_2002	1281801.0
+birmingham, alabama_2005	236602.0
+morristown, tennessee_2006	24965.0
+lafayette, indiana_2000	56397.0
+frãƒâ½dek-mãƒâ­stek_2005	59897.0
+baku_2005	2036000.0
+long beach, california_2004	476564.0
+bacoor, cavite_2000	305699.0
+long beach, california_2005	463956.0
+frãƒâ½dek-mãƒâ­stek_2006	62208.0
+alexandria, minnesota_2006	11323.0
+salt lake city, utah_2000	178858.0
+elsah township, jersey county, illinois_2000	2425.0
+cornwall, prince edward island_2006	4412.0
+long beach, california_2006	472494.0
+wrocã…â€šaw_2006	633700.0
+carefree, arizona_2005	3706.0
+greenfield, california_2000	129150.0
+kitchener, ontario_2006	204668.0
+flora township, boone county, illinois_2000	2175.0
+kota kinabalu_2000	470000.0
+kitchener, ontario_2001	190399.0
+bel air, harford county, maryland_2000	10080.0
+salem, oregon_2003	142940.0
+salem, oregon_2005	147250.0
+salem, oregon_2006	149305.0
+guelph, ontario_2006	114943.0
+ibadan_2005	3800000.0
+sechelt, british columbia_2006	8454.0
+guelph, ontario_2001	125873.0
+bonnyville, alberta_2006	5896.0
+amarillo, texas_2004	180791.0
+victoria, texas_2005	68965.0
+champlain, new york_2000	1173.0
+st. albert, alberta_2006	57719.0
+north reading, massachusetts_2000	13837.0
+olecko_2007	16989.0
+baltimore, maryland_2005	641943.0
+baltimore, maryland_2006	640961.0
+belãƒâ©m_2006	4097340.0
+seattle, washington_2005	572600.0
+seattle, washington_2006	582484.0
+salina, kansas_2000	45679.0
+allen, texas_2000	43554.0
+vancouver_2006	587891.0
+vancouver_2007	587891.0
+sandy springs, georgia_2000	85812.0
+rochester, new york_2006	208123.0
+boise, idaho_2005	190117.0
+waterbury, connecticut_2005	107902.0
+orange city, iowa_2000	5582.0
+rochester, new york_2000	219773.0
+northfield, vermont_2000	3208.0
+sheboygan falls, wisconsin_2000	1706.0
+ã„å’eskãƒâ½ tã„â€ºã…â¡ãƒâ­n_2006	26330.0
+kilgore, texas_2006	12067.0
+gary, indiana_2000	102746.0
+ciudad juãƒâ¡rez_2005	1301452.0
+boise, idaho_2006	198638.0
+prague_2007	1194407.0
+prague_2006	1183729.0
+austin, texas_2007	718912.0
+austin, texas_2006	709893.0
+waukesha, wisconsin_2000	8596.0
+fort dodge, iowa_2000	25136.0
+bjelovar_2006	28.0
+consul, saskatchewan_2006	3020.0
+redmond, oregon_2006	23500.0
+kemerovo_2005	522263.0
+ã… enov_2006	5558.0
+sãƒâ£o josãƒâ© dos campos_2005	610965.0
+dallas, texas_2007	1250280.0
+dallas, texas_2006	1232940.0
+coaldale, alberta_2006	6177.0
+dallas, texas_2005	1213825.0
+dallas, texas_2004	1210393.0
+san juan, puerto rico_2000	434374.0
+milwaukee, wisconsin_2006	573378.0
+saint peters, missouri_2004	65628.0
+toledo, ohio_2004	304973.0
+trout lake, washington_2000	1023.0
+yuma, arizona_2006	87423.0
+beirut_2005	1574397.0
+brookfield, wisconsin_2000	6389.999999999996
+ã„å’eskãƒâ½ krumlov_2005	13942.0
+milwaukee, wisconsin_2000	596974.0
+saint peters, missouri_2006	54839.0
+milwaukee, wisconsin_2005	578887.0
+sherbrooke, quebec_2006	147427.0
+brea, california_2003	39560.0
+waterloo, ontario_2001	86543.0
+scottsdale, arizona_2007	240410.0
+fairbury, nebraska_2000	4262.0
+scottsdale, arizona_2005	234752.0
+sartell, minnesota_2000	9641.0
+scottsdale, arizona_2006	238900.0
+huntington, new york_2000	195289.0
+lake oswego, oregon_2000	35278.0
+des moines, iowa_2005	194163.0
+white hall township, greene county, illinois_2000	3036.0
+kansas city, missouri_2004	444387.0
+kansas city, missouri_2005	444965.0
+des moines, iowa_2006	193886.0
+philadelphia_2005	1463281.0
+olean, new york_2000	2029.0
+kansas city, missouri_2006	447306.0
+cabot, arkansas_2006	21039.0
+des moines, iowa_2000	198682.0
+trenton, new jersey_2005	84639.0
+little chute, wisconsin_2000	10476.0
+wakefield, kansas_2000	838.0
+monterey, california_2000	29675.0
+newark, new jersey_2000	273546.0
+ampang, selangor_2005	721411.0
+tricity_2006	751837.0
+basra_2003	2600000.0
+bratislava_2005	425459.0
+san juan capistrano, california_2000	33826.0
+ferintosh, alberta_2001	176.0
+bountiful, utah_2000	41301.0
+augusta, maine_2000	24260.0
+portland, maine_2000	64249.0
+vermilion, alberta_2006	4036.0
+yarmouth, massachusetts_2000	24807.0
+south charleston, west virginia_2005	12700.0
+waterloo, ontario_2006	97475.0
+new orleans, louisiana_2006	223388.0
+saguenay, quebec_2006	143692.0
+visalia, california_2006	117774.0
+new orleans, louisiana_2007	273000.0
+sterling, kansas_2000	2642.0
+new orleans, louisiana_2005	454863.0
+nuevo laredo, tamaulipas_2005	355827.0
+reedley, california_2000	20756.0
+kamloops_2006	92882.0
+santiago, chile_2002	5428590.0
+new orleans, louisiana_2000	484674.0
+mount pleasant, south carolina_2006	59113.0
+temecula, california_2005	93923.0
+huron county, ontario_2006	59325.0
+clairton, pennsylvania_2000	8491.0
+mã„â€ºlnãƒâ­k_2005	19077.0
+chula vista, california_2005	210000.0
+belize city_2005	60800.0
+seville_2004	1043000.0
+milan_2006	1303437.0
+zillah, washington_2000	2198.0
+st. cloud, minnesota_2000	59107.0
+fredericksburg, virginia_2000	19279.0
+new london, connecticut_2005	26174.0
+phoenix, arizona_2006	1512986.0
+culver, oregon_2000	802.0
+phoenix, arizona_2005	1461575.0
+phoenix, arizona_2004	1418041.0
+newburgh, new york_2000	27568.0
+lunsar_2004	22973.0
+rio de janeiro_2005	6023699.0
+qatif_2004	500000.0
+gouda_2007	70873.0
+thomaston, connecticut_2005	7938.0
+nacogdoches, texas_2000	29914.0
+podã„â€ºbrady_2006	13255.0
+bradford, vermont_2000	815.0
+idabel, oklahoma_2000	6952.0
+everett, washington_2006	101000.0

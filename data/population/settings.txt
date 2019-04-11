@@ -1,0 +1,4 @@
+with_outlier_city_count	1172
+with_outlier_user_count	2415
+user_count	1955
+city_count	1172
