@@ -6,9 +6,9 @@ Data set population is from https://cogcomp.org/page/resource_view/16, source pa
 
 I implemented popular truth discovery methods CRH, CATD, GTM, TruthFinder, Sums, Average.log, investment, pooled-investment.
 
-src has java codes.
+Folder src has java codes.
 
-data has files.
+Folder data has preprocessed files.
 
 First, run PreProcessDataNewYear.java, which preprocesses the data like (A Probabilistic Model for Estimating Real-valued Truth from Conflicting Sources).
 Then, for each algorithm, just run the main function with different parameters. MAE, RMSE, error rate (1%) is reported.
