@@ -16,7 +16,7 @@ After preprocessing, 4183 claims about 1172 population entities from 2415 source
 Compared with "4119 claims about 1148 population entities from 2415 sources. 274 city-year pairs" in (A Probabilistic Model for Estimating Real-valued Truth from Conflicting Sources).
 
 The experiment results:
-
+![image](http://github.com/daz45/population/exp.jpg)
 
 
 
